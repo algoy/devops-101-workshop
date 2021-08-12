@@ -1,1 +1,1 @@
-FROM algoy.jfrog.io/${VIRTUAL_REPO_NAME}/ubuntu:16.04
+FROM algoy.jfrog.io/default-docker-virtual/ubuntu:18.04
